@@ -9,17 +9,17 @@
 
 
 MAC 주소값을 얻는 방법은 다음과 같습니다.
-1. 아두이노 시리얼 모니터 확인   
-2. 4채널 보드의 ESP32 칩 겉면 확인 
+*1. 아두이노 시리얼 모니터 확인*
+*2. 4채널 보드의 ESP32 칩 겉면 확인* 
 
-1) 아두이노 시리얼 모니터 확인   
+### 1) 아두이노 시리얼 모니터 확인   
 
 ![2_mac check](https://user-images.githubusercontent.com/98401825/206086249-81f43df4-f806-4465-8e2d-678d8162bf1e.png)
 
 
 위와 같이 시리얼 모니터에서 Mac address를 확인할 수 있습니다.   
    
-2) 4채널 보드의 ESP32 칩 겉면 확인
+### 2) 4채널 보드의 ESP32 칩 겉면 확인
 
 ![3_esp32 mac](https://user-images.githubusercontent.com/98401825/206086323-c7b88e4a-e01a-467b-9a26-be9d65ed5386.jpg)   
    
