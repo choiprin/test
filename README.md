@@ -29,17 +29,17 @@ Mac address만 정상적으로 기입 하시면 자동으로 MQTT 서버에 접�
 
 해당 노드는 2가지의 기능을 갖고 있습니다.   
 
-#### 1. 릴레이 *개별* 구동
-#### 2. 릴레이 *전체* 구동
+__*1. 릴레이 개별 구동*__   
+__*2. 릴레이 전체 구동*__   
 
-1) 릴레이 개별 구동   
+### 1) 릴레이 개별 구동   
 
 ![image](https://user-images.githubusercontent.com/98401825/206086949-44589664-0743-403b-bdfc-f1602133cba6.png)
 
 입력되는 데이터의 형식 입니다. 두 가지 key 중   
 outNo는 릴레이 순서(0 ~ 3) value는 on/off 입니다.   
    
-2) 릴레이 전체 구동   
+### 2) 릴레이 전체 구동   
    
 ![image](https://user-images.githubusercontent.com/98401825/206087083-8cc5db82-94c5-47f2-884a-baf5a0642ac6.png)
 
