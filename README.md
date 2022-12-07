@@ -1,10 +1,10 @@
 # 릴레이 노드
 ## 4채널 보드의 릴레이를 동작시키는 노드 입니다.
-![1_mac input](https://user-images.githubusercontent.com/98401825/206085780-b05a0a76-bd41-48db-a58f-c0028edfd24f.png)
-
 
 ### *Mac address*
 ***
+![1_mac input](https://user-images.githubusercontent.com/98401825/206085780-b05a0a76-bd41-48db-a58f-c0028edfd24f.png)
+
 위와 같이 노드 설정에서 MAC 주소값을 넣어 주시면 됩니다.
 
 
